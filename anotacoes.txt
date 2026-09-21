@@ -1,0 +1,14 @@
+## Exercício de fixação
+
+Na pasta `curso-fullstack`:
+
+1. Crie um arquivo `anotacoes.txt` com uma frase dentro.
+2. Rode o ciclo completo: `git status` → `git add .` → `git commit -m "adiciona anotacoes"` → `git log --oneline`.
+3. Mude o conteúdo do arquivo e repita o ciclo — é isso que se repete em todo projeto real.
+
+Repetir 2-3 vezes até o ciclo `status → add → commit` sair automático.
+
+## Próximos passos
+
+- [ ]  Conectar repositório local ao GitHub (`git remote add origin` + `git push -u origin main`)
+- [ ]  Iniciar Módulo 1 — HTML e CSS
