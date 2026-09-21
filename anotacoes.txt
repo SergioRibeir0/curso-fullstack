@@ -12,3 +12,5 @@ Repetir 2-3 vezes até o ciclo `status → add → commit` sair automático.
 
 - [ ]  Conectar repositório local ao GitHub (`git remote add origin` + `git push -u origin main`)
 - [ ]  Iniciar Módulo 1 — HTML e CSS
+
+nova linha
