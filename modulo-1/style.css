@@ -3,16 +3,12 @@ body {
   background-color: gray;
   color: #333;
   max-width: 700px;
-  margin: 0 auto; /* centraliza o conteúdo na página */
+  margin: 0 auto;
   padding: 20px;
 }
 
 h1 {
   color: #e87e1a;
-}
-
-ul {
-  line-height: 1.8; /* espaçamento entre linhas */
 }
 
 a {
@@ -31,9 +27,15 @@ a:hover {
   gap: 20px;
 }
 
-.lista {
+.cards {
   display: flex;
-  flex-direction: column;
-  gap: 8px;
-  list-style: none; /* opcional: remove as bolinhas da lista, já que agora é flex */
+  gap: 16px;
+  padding: 10px;
+}
+
+.card {
+  flex: 1;
+  background-color: white;
+  border-radius: 12px;
+  padding: 16px;
 }
