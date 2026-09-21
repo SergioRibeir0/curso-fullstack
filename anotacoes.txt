@@ -14,3 +14,4 @@ Repetir 2-3 vezes até o ciclo `status → add → commit` sair automático.
 - [ ]  Iniciar Módulo 1 — HTML e CSS
 
 nova linha
+mais uma nova linha
